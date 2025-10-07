@@ -1,3 +1,5 @@
+# ---- Python ----
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +207,48 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+# ---- R / RStudio ----
+
+# Historia y entorno de R
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# Archivos de proyectos de RStudio
+.Rproj.user/
+*.Rproj
+
+# Archivos de compilación de paquetes R
+.Rbuildignore
+.Rcheck/
+
+# Carpetas temporales o de caché
+.Rcache/
+__MACOSX/
+.DS_Store
+
+# Salidas de knitr / R Markdown
+*_cache/
+cache/
+*.utf8.md
+*.knit.md
+
+# Archivos de datos grandes o temporales
+data-raw/
+*.rds
+*.RData
+*.csv~
+*.tmp
+
+# Resultados y gráficos generados
+*.pdf
+*.png
+*.jpeg
+*.jpg
+
+# Notebooks temporales
+*.nb.html
