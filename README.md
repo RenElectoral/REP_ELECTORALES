@@ -4,7 +4,7 @@ Este repositorio contiene la metodología y scripts en R y Python usados para la
 
 ## Estructura del repositorio
 - `/data1_2/`: Bases de datos usadas para los reportes 1 y 2.
-- `/scripts1_2/`: Código fuente en R y Python
+- `/scripts1_2/`: Código fuente en R y Python de los reportes 1 y 2
 - `README.md`: Descripción general del proyecto
   
 ## Autores
