@@ -8,7 +8,7 @@ Este repositorio contiene la metodología y scripts en R y Python usados para la
 - `README.md`: Descripción general del proyecto
   
 ## Autores
-María Belén Elías Pineda (Responsable del equipo - SDPEG/DRE)
-Kevin Tello Aguinaga (SDPEG/DRE)
-Antony Manuel Ramos Castillo (SDPEG/DRE)
-Gabriel Riega (SDPEG/DRE)
+- María Belén Elías Pineda (Responsable del equipo - SDPEG/DRE)
+- Kevin Tello Aguinaga (SDPEG/DRE)
+- Antony Manuel Ramos Castillo (SDPEG/DRE)
+- Gabriel Riega (SDPEG/DRE)
