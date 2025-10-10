@@ -5,7 +5,8 @@ Este repositorio contiene la metodología y los scripts en **R** y **Python** ut
 /Reporte_1_y_2/
 - /data1_2/ # Bases de datos utilizadas para los reportes 1 y 2
 - /scripts1_2/ # Código fuente en R y Python de los reportes 1 y 2
-- README.md # Metodología del Reporte 2
+- Metodología _ Reporte2.pdf # Documento con la descripción detallada del procedimiento
+- README.md # Descripción de la carpeta
 
 **README.md (raíz):** Descripción general del proyecto
 
