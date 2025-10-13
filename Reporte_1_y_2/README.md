@@ -8,5 +8,5 @@ Aquí se documentan las **variables usadas**, la **operacionalización de las va
 /Reporte_1_y_2/
 - /data1_2/ # Bases de datos empleadas en los reportes 1 y 2
 - /scripts1_2/ # Códigos fuente en R y Python asociados a los reportes
-- Metodología _ Reporte2.pdf # Documento con la descripción detallada del procedimiento
+- Reporte 2 - Metodología.pdf # Documento con la descripción detallada del procedimiento
 - README.md # Este documento: Estructura
